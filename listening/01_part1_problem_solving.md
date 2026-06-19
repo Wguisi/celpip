@@ -1,75 +1,101 @@
 # Parte 1 — Listening to Problem Solving
 
-## O que é
+## Contexto Típico
 
-- **Formato:** 3 conversas separadas, cada uma com ~1–1,5 minuto
-- **Questões:** 8 no total (2–3 por conversa), múltipla escolha
-- **Tempo de resposta:** 30 segundos por questão
-- **Falantes:** Sempre um homem e uma mulher que **não se conhecem** — um é cliente/membro do público, o outro é representante de empresa/instituição
-- **Cenários:** Lojas, escritórios, locais públicos, ligações de atendimento, agências governamentais
-- **Temas:** Direções, reclamações, solicitações de ajuda, agendamentos, informações sobre serviços
-- **Dificuldade:** A parte mais fácil — mire em 7–8/8 corretas
+- 3 conversas curtas (~1–1,5 min cada) sobre resolver um problema prático
+- Cenários: direções, serviço com erro, agendamento, suporte, devoluções, informações
+- **Falantes:** sempre um cliente e um representante (que não se conhecem)
+- **8 questões** no total (2–3 por conversa), múltipla escolha, 30s por questão
+- **Dificuldade:** mais fácil da prova — mire em 7–8/8
 
-As conversas seguem sempre a mesma estrutura:
-> Introdução da situação → Problema apresentado → Soluções propostas → **Decisão final**
-
-Os falantes frequentemente sugerem múltiplas opções antes de chegar a um acordo.
+Estrutura fixa de toda conversa:
+> situação → problema → soluções propostas → **decisão final**
 
 ---
 
-## O que Prestar Atenção Durante a Escuta
+## O que Mais Cai
 
-- **A solução final acordada** — não a primeira proposta. Este é o ponto mais importante.
-- Frases que indicam conclusão:
-  - "So let's go with..."
-  - "Why don't we just..."
-  - "Okay, that works"
-  - "Actually, let's try..."
-  - "So we'll do..."
-- A progressão da conversa — falantes frequentemente rejeitam opções antes de fechar.
-- Detalhes concretos: nomes de ruas, referências, preços, horários, datas, nomes de produtos, etapas de um processo.
-- O papel de cada falante (quem tem o problema, quem tem a solução/informação).
+- Qual era o problema real
+- Qual solução foi sugerida e qual foi **escolhida** (não a primeira — a final)
+- Detalhes concretos: local, número, horário, endereço, nome, ordem de passos
 
 ---
 
-## O que Anotar no Noteboard
+## Palavras-Gatilho para Prestar Atenção
 
-**Template — T-Chart:**
+Quando ouvir qualquer uma dessas, a decisão final está chegando — marque no papel:
+
+| Tipo | Exemplos |
+|------|----------|
+| Decisão final | "So let's go with...", "Why don't we just...", "We'll do...", "Okay, that works" |
+| Mudança de ideia | "Actually...", "Wait...", "On second thought...", "Never mind..." |
+| Rejeição | "That won't work", "I'm not sure about that", "The problem is..." |
+| Confirmação | "Perfect", "Sounds good", "That works for me", "Done" |
+
+---
+
+## O que Anotar no Papel
+
+### Modelo por trecho (use 5 linhas por conversa)
 
 ```
-| CLIENTE / PROBLEMA     | REPRESENTANTE / AJUDA  |
-|------------------------|------------------------|
-| solução 1 → ✗          | propôs: opção A → ✗    |
-| solução 2 → ✓ FINAL    | propôs: opção B → ✓    |
+P  = problema principal
+S1 = primeira solução citada
+S2 = segunda solução (se houver)
+F  = solução FINAL (decisão)    ← a mais importante
+D  = detalhes de suporte (tempo, lugar, valor, nome, etapas)
 ```
 
-- Registre cada solução proposta com ✓ ou ✗
-- **Circule ou marque a DECISÃO FINAL**
-- Anote números, horários, preços e locais assim que ouvir
+### Exemplo de anotação real
 
-**Exemplo real de anotação:**
 ```
-P1: meet @ 5 → ✗ → 5:30 ✓
-P1: discount 20% → next week only
+P:  pacote errado entregue
+S1: troca na loja  ✗
+S2: reembolso online  ✓
+F:  reembolso online
+D:  até sex | código: #4421 | 3–5 dias úteis
+```
+
+### Símbolos recomendados
+
+| Símbolo | Significado |
+|---------|-------------|
+| ✓ | aceito / concordou |
+| ✗ | rejeitado / não vai rolar |
+| → | leva a / resultado |
+| ✗→✓ | rejeitou depois aceitou |
+| ★ ou [F] | decisão FINAL — circule sempre |
+| @ | horário ou local (ex.: @3pm, @centro) |
+| $ | valor monetário |
+| # | código, número de referência |
+| ? | dado que não captou bem — chute depois |
+| > | ordem de passos (1> 2> 3>) |
+
+### Exemplo com símbolos
+
+```
+P:  appt errado
+S1: remarcar →✗ (sem vaga)
+S2: lista espera →? (não gostou)
+F:  ★ ligar amanhã 8am
+D:  @clínica norte | tel: ext 4
 ```
 
 ---
 
-## Armadilhas e Erros Comuns
+## Onde Muita Gente Erra
 
-| Armadilha | Detalhe |
-|-----------|---------|
-| **Escolher a primeira solução** | Os falantes descrevem positivamente e depois rejeitam — sempre ouça até o fim |
-| **Mudança de ideia** | "I'll meet you at 5:00" → "Wait, actually let's make it 5:30" — a resposta é 5:30 |
-| **Confundir desejo com resultado** | O que o cliente queria vs. o que foi acordado podem ser coisas diferentes |
-| **Detalhes qualificadores perdidos** | Um preço pode mudar, um horário pode ser ajustado, uma condição pode ter exceção |
-| **Copiar palavras do áudio** | Opções que repetem o áudio palavra por palavra são frequentemente distratores |
+- **Marcar S1 em vez de F** — a primeira sugestão é quase sempre descartada
+- **Perder mudança de ideia** após "but / however / actually / wait" — o que vem depois dessas palavras é o que vale
+- **Confundir detalhes de direção/local** — anote pontos de referência junto com nomes de ruas
+- **Relaxar no final** — a decisão costuma vir nos últimos 15–20 segundos da conversa
 
 ---
 
-## Estratégias Específicas
+## Estratégia de Resposta
 
-1. Ao ouvir uma nova solução proposta, **atualize suas anotações imediatamente** — não fique apegado ao que escreveu antes.
-2. Preste atenção especial nos **últimos 15–20 segundos** de cada conversa — é quando a decisão final costuma ser declarada.
-3. O texto de introdução diz o cenário e os papéis (ex.: "You will hear a man calling a pharmacy"). Use isso para prever o vocabulário.
-4. Trate cada uma das 3 conversas como independente — **resete sua atenção completamente** entre elas.
+1. Enquanto ouve, capture **P** e **F** primeiro — são o alvo de ~60% das questões
+2. Só depois complete os detalhes em **D**
+3. Se uma solução for rejeitada, risque S1 e escreva S2 — não deixe no papel sem marcação
+4. Se travar numa questão: elimine as opções absurdas e chute; nunca deixe em branco
+5. Trate cada uma das 3 conversas como independente — resete atenção e limpe a área do papel antes de cada uma

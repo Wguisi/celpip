@@ -1,61 +1,77 @@
 # Parte 2 — Listening to a Daily Life Conversation
 
-## O que é
+## Contexto Típico
 
-- **Formato:** 1 conversa, ~1,5–2 minutos
-- **Questões:** 5, múltipla escolha
-- **Tempo de resposta:** 30 segundos por questão
-- **Falantes:** Um homem e uma mulher que **se conhecem** (amigos, colegas, familiares, colegas de classe)
-- **Cenários:** Lugares públicos, lojas, escolas, escritórios, situações sociais
-- **Temas:** Passeios, planejamento de eventos, tarefas no trabalho, agendamentos, experiências pessoais, decisões compartilhadas
-- **Dificuldade:** Fácil a médio — testa mais significado implícito do que a Parte 1
+- 1 conversa casual (~1,5–2 min) entre pessoas que **se conhecem** (amigos, colegas, família)
+- Cenários: planejar passeio, discutir tarefa, agendar algo, tomar decisão juntos
+- **5 questões**, múltipla escolha, 30s por questão
+- **Dificuldade:** Fácil a médio — testa mais o que está **implícito** do que fatos declarados
 
-Usa inglês canadense natural e casual com contrações, gírias, coloquialismos e linguagem indireta. Os falantes expressam opiniões e tomam decisões pelo tom e pela implicação, nem sempre diretamente.
+Usa inglês informal com contrações, gírias e linguagem indireta. Os falantes raramente dizem diretamente o que sentem — você infere pelo tom e pelo que escolhem.
 
 ---
 
-## O que Prestar Atenção Durante a Escuta
+## O que Mais Cai
 
-- **Mudanças de tom e atitude** — são alvos frequentes nas questões. Como o falante se sente sobre o que está sendo discutido?
-- **Linguagem de hesitação** que sinaliza opiniões indiretas:
-  - "Well, I suppose..."
-  - "I'm not entirely sure, but..."
-  - "That's one way to look at it"
-  - "I guess that could work"
-- **Quem disse o quê** — muitas questões pedem atribuição de fala
-- **O acordo ou decisão final**, especialmente mudanças sinalizadas por:
-  - "Actually, let's just..."
-  - "No, that's too expensive"
-  - "Wait, I changed my mind"
-- Discordância implícita: "I'm not sure that's the best idea" = "I disagree"
-- Emoções que motivam decisões — um falante cansado ou frustrado tende a escolher a opção mais simples
-- Fatos repetidos — repetição sinaliza importância
+- Atitude ou sentimento de cada falante em relação a algo
+- A decisão final (não o que foi proposto no início)
+- Quem disse o quê (atribuição de fala)
+- Mudança de opinião ao longo da conversa
 
 ---
 
-## O que Anotar no Noteboard
+## Palavras-Gatilho para Prestar Atenção
 
-**Template — T-Chart com símbolos de atitude:**
+| Tipo | Exemplos |
+|------|----------|
+| Decisão / acordo final | "Let's just go with...", "Okay, that works", "Sounds good", "Deal" |
+| Mudança de ideia | "Actually...", "Wait, never mind", "On second thought...", "You know what..." |
+| Discordância educada | "I'm not sure about that", "That's one way to look at it", "I suppose..." |
+| Hesitação / relutância | "I guess", "Maybe", "I don't know...", "If you really think so" |
+| Entusiasmo real | "Oh yes!", "Definitely!", "I'd love that", "That sounds amazing" |
+| Reclamação indireta | "It's a bit far", "That's kind of expensive", "I'm not really in the mood" |
+
+---
+
+## O que Anotar no Papel
+
+### Modelo — T-Chart por falante
 
 ```
-| M (man)                  | W (woman)               |
-|--------------------------|-------------------------|
-| restaurante ✗ ($$$)      | filme ✗                  |
-| pizza ✓                  | museu ✓                  |
-| !! entusiasmado          | ? hesitante no início   |
+M (man)                     W (woman)
+-----------                 -----------
+T  = tom geral              T  = tom geral
+P1 = primeira posição       P1 = primeira posição
+Pf = posição FINAL          Pf = posição FINAL
+F  = decisão final acordada (entre os dois)
 ```
 
-**Símbolos de atitude:**
-- ! sentimento forte
-- ? hesitação / incerteza
-- ↑ entusiasmo
-- ↓ relutância
+### Símbolos de atitude — use esses dentro do T-Chart
 
-Foque as anotações finais na **posição final de cada falante**.
+| Símbolo | Significado |
+|---------|-------------|
+| ✓ | concorda / quer / aceita |
+| ✗ | não quer / rejeita |
+| ✓? | aceita com hesitação ("I guess...") |
+| ✗→✓ | rejeitou mas mudou de ideia |
+| !! | emoção forte (animação ou irritação) |
+| ? | incerto, não deixou claro |
+| ↑ | entusiasmo, energia positiva |
+| ↓ | relutância, desânimo, cansaço |
+| ~ | neutro / indiferente |
+| [ironia] | tom sarcástico — o oposto do que disse |
 
-**Exemplo de anotação:**
+### Exemplo de anotação
+
 ```
-M: restaurant ✗($$$) → pizza ✓ | W: movie ✗ → museum ✓ → agreed: museum + pizza
+M                           W
+-----------                 -----------
+T: ↑ animado                T: ↓ cansada
+P1: restaurante italiano ✓  P1: ✗ ($$$)
+S2: pizza delivery          S2: ✓?
+Pf: pizza ✓                 Pf: ✓ (aceitou)
+
+F: ★ pizza delivery, sáb à noite
 ```
 
 ---
@@ -64,22 +80,31 @@ M: restaurant ✗($$$) → pizza ✓ | W: movie ✗ → museum ✓ → agreed: m
 
 | Armadilha | Detalhe |
 |-----------|---------|
-| **Linguagem educada ≠ concordância** | "That could be interesting" pode ser neutralidade ou até desaprovação leve |
-| **Sarcasmo** | Perder o tom irônico e interpretar literalmente |
-| **Afirmação inicial ≠ posição final** | Opiniões mudam ao longo da conversa — não responda com base no começo |
-| **Opções rejeitadas nas alternativas** | O exame coloca deliberadamente nas opções coisas que foram mencionadas e descartadas |
-| **Ignorar o tom** | "How does the woman feel about X?" só é respondida pelo tom de voz, não pelas palavras |
-| **Focar só em palavras-chave** | Perder a dinâmica do relacionamento entre os falantes |
+| **Educação ≠ concordância** | "That could be nice" pode ser neutralidade ou até recusa velada |
+| **Sarcasmo** | Perder o tom irônico e interpretar literalmente ("Oh, great idea..." dito com ceticismo) |
+| **Posição inicial ≠ posição final** | Opiniões mudam — nunca responda com base no que foi dito no começo |
+| **Opções descartadas nas alternativas** | O exame coloca intencionalmente nas opções coisas que foram mencionadas e rejeitadas |
+| **Ignorar o tom de voz** | Questões do tipo "How does the woman feel?" só se respondem pelo tom, não pelas palavras |
 
 ---
 
-## Estratégias Específicas
+## Estratégia de Resposta
 
-1. Trate essa parte como um **desafio de inferência** — assuma que 2–3 questões serão sobre significado implícito ou atitude, não fatos declarados.
-2. Quando ouvir uma frase de hesitação, marque suas anotações — provavelmente será tema de uma questão.
-3. Para questões de sentimentos ou atitude, lembre-se do **tom de voz**, não só das palavras.
-4. Os **últimos 30 segundos** da conversa geralmente contêm o acordo final — atenção redobrada.
-5. Pratique reconhecer expressões idiomáticas informais:
-   - "grab a bite" = comer alguma coisa
-   - "I'm swamped" = estou muito ocupado
-   - "that's a tough sell" = isso é difícil de aceitar
+1. Abra o T-Chart no papel **antes** do áudio — dois blocos lado a lado, M e W
+2. Enquanto ouve, marque a atitude de cada um com os símbolos acima
+3. Se ouvir uma frase de hesitação, marque com **?** imediatamente — provavelmente cai uma questão ali
+4. Os **últimos 30 segundos** quase sempre contêm o acordo final — atenção redobrada no final
+5. Para questões de sentimento: use o que ouviu no **tom**, não só nas palavras
+6. Se travar: elimine opções que contradizem o que você anotou e chute entre as restantes
+
+### Expressões idiomáticas comuns nessa parte
+
+| Expressão | Significado |
+|-----------|------------|
+| "grab a bite" | comer alguma coisa |
+| "I'm swamped" | estou ocupadíssimo |
+| "that's a tough sell" | difícil de convencer |
+| "I could go either way" | tanto faz para mim |
+| "it's on me" | eu pago |
+| "let's call it a day" | vamos encerrar por hoje |
+| "I'm not up for it" | não estou a fim |

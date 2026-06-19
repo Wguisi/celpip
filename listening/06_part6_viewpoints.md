@@ -1,90 +1,107 @@
 # Parte 6 — Listening to Viewpoints
 
-## O que é
+## Contexto Típico
 
-- **Formato:** 1 monólogo mais longo, ~3 minutos
-- **Questões:** 6, com opções drop-down
-- **Tempo de resposta:** ~8–9 minutos para as 6 questões
-- **Falante:** 1 pessoa (narrador/apresentador) que apresenta múltiplas perspectivas — geralmente 2–3 pontos de vista diferentes sobre um único tema
-- **Temas:** Projetos comunitários, questões sociais, debates de políticas públicas, questões ambientais, planejamento urbano, decisões cívicas, questões culturais
-- **Dificuldade:** Difícil — considerada a parte mais desafiadora do CELPIP Listening
+- 1 monólogo longo (~3 min), **1 falante** que apresenta múltiplas perspectivas sobre um tema
+- Cenários: debate de política pública, projeto comunitário, questão ambiental, planejamento urbano, tema social
+- **6 questões**, drop-down, ~8–9 min para responder
+- **Dificuldade:** A parte mais difícil do Listening — o narrador relata opiniões alheias sem necessariamente concordar com elas
 
-Um único falante apresenta um argumento em camadas que inclui: seu próprio enquadramento, o ponto de vista da Pessoa A, o ponto de vista da Pessoa B, e às vezes uma terceira perspectiva ou conclusão. Você deve acompanhar constantemente **quem tem qual opinião** e distinguir entre fatos declarados e opiniões relatadas.
+O narrador apresenta 2–3 perspectivas diferentes, cada uma com argumentos e evidências próprias. Você precisa rastrear constantemente **quem pensa o quê** — e separar isso do que o próprio narrador acredita.
 
 ---
 
-## O que Prestar Atenção Durante a Escuta
+## O que Mais Cai
 
-- **Frases de atribuição** — essenciais para saber de quem é a visão:
-  - "According to Dr. Smith..."
-  - "Critics argue that..."
-  - "Supporters believe..."
-  - "The committee maintains..."
-  - "As residents put it..."
-  - Quando ouvir essas frases, a visão que segue pertence àquela fonte, **NÃO ao narrador**.
-
-- **Palavras de transição/contraste** que sinalizam mudança de perspectiva:
-  - "However", "On the other hand", "In contrast", "While some argue...", "Despite this...", "Even so..."
-  - Circule essas no noteboard — cada uma sinaliza uma nova perspectiva.
-
-- **O enquadramento do narrador** vs. as opiniões relatadas de outros — são coisas diferentes
-
-- **Verbos modais** indicando a força da afirmação:
-  - "should" / "must" = forte
-  - "could" / "might" = fraco/condicional
-
-- **Palavras de emoção/postura:** "thrilled", "worried", "skeptical", "cautious", "enthusiastic" — sinalizam atitude
-
-- **Tipo de evidência:** É uma estatística? Uma anedota pessoal? Opinião especializada? Dados de política? Marque diferente.
-
-- **Os primeiros e últimos 30 segundos** — o início estabelece o tópico e os stakes; o fechamento frequentemente contém a conclusão implícita do narrador.
+- A posição de cada grupo/pessoa sobre o tema
+- A evidência usada por cada perspectiva (estatística, experiência, política)
+- O que o narrador implicitamente acredita (nem sempre declarado)
+- Mudanças de perspectiva ao longo do monólogo
+- O que foi dito na abertura e no fechamento
 
 ---
 
-## O que Anotar no Noteboard
+## Palavras-Gatilho para Prestar Atenção
 
-**Esta parte exige o sistema de anotação mais estruturado de todas.**
+| Tipo | Exemplos |
+|------|----------|
+| Atribuição de opinião | "According to...", "Critics argue...", "Supporters believe...", "The committee maintains...", "Residents say..." |
+| Mudança de perspectiva | "However", "On the other hand", "In contrast", "While some argue...", "Not everyone agrees...", "Despite this..." |
+| Concessão (atenção!) | "While critics raise valid concerns...", "Although there are drawbacks..." → o narrador reconhece, mas **não está concordando** |
+| Força da afirmação | "should / must" (forte) vs "could / might / may" (fraco/condicional) |
+| Postura emocional | "thrilled", "worried", "skeptical", "cautious", "enthusiastic", "frustrated" |
+| Tipo de evidência | "studies show", "according to data", "residents report", "experts say", "in my own experience" |
 
-**Template — Tabela de Perspectivas:**
+> **Regra central:** quando ouvir uma frase de atribuição ("According to X..."), o que vem depois pertence a X, **não ao narrador**. Essa confusão é o erro mais comum da Parte 6.
+
+---
+
+## O que Anotar no Papel
+
+### Modelo — Tabela de Perspectivas (monte ANTES do áudio)
 
 ```
-TÓPICO: [escreva em 3–5 palavras antes do áudio]
+TÓPICO: _________________________ (escreva em 3–5 palavras usando o texto da tela)
 
-| PERSPECTIVA 1 (quem?)    | PERSPECTIVA 2 (quem?)    | NARRADOR/CONCLUSÃO        |
-|--------------------------|--------------------------|---------------------------|
-| afirmação principal:     | afirmação principal:     | enquadramento:            |
-| razão:                   | razão:                   | postura implícita:        |
-| evidência: S/XP/E/P      | evidência: S/XP/E/P      | última frase:             |
-| ressalva:                | ressalva:                |                           |
+┌────────────────────────────┬────────────────────────────┬────────────────────┐
+│  VP1: quem? ____________   │  VP2: quem? ____________   │  NARRADOR          │
+│                            │                            │                    │
+│  posição: + / - / ~        │  posição: + / - / ~        │  enquadramento:    │
+│  argumento:                │  argumento:                │                    │
+│  evidência: S/XP/E/P       │  evidência: S/XP/E/P       │  postura implícita:│
+│  ressalva:                 │  ressalva:                 │                    │
+└────────────────────────────┴────────────────────────────┴────────────────────┘
+
+VP3 (se houver): quem? ____________  posição: ______  argumento: ______________
+
+ÚLT: _________________________________ (última frase — anote sempre)
 ```
 
-**Códigos de tipo de evidência:**
-- S = estatística
-- XP = experiência pessoal
-- E = opinião especializada
-- P = argumento de política
+### Símbolos recomendados
 
-**Símbolos de postura:**
-- + = apoia a proposta
-- - = opõe-se à proposta
-- ~ = condicional/neutro
-- ? = afirmação incerta / marque se não souber se é fato ou opinião
+| Símbolo | Significado |
+|---------|-------------|
+| + | apoia / a favor da proposta |
+| - | contra / opõe-se |
+| ~ | neutro / condicional |
+| +? | apoia com ressalva |
+| S | evidência estatística ("studies show 40%...") |
+| XP | experiência pessoal / relato |
+| E | opinião de especialista / expert |
+| P | argumento de política / lei |
+| ⚠ | concessão — narrador reconhece mas não endossa |
+| [ ] | narrador falando em nome próprio (não relatando) |
+| ★ | ponto mais importante / mais enfatizado |
+| → | "leva a" / consequência |
+| ↑ / ↓ | aumento / queda (com número) |
 
-**Regras das anotações:**
-- Escreva o tópico no topo antes de o áudio começar (use o texto de introdução da tela)
-- Circule todas as palavras de contraste enquanto escreve — marcam as fronteiras entre perspectivas
-- Reserve um bullet "última frase" na parte de baixo para o que for dito nos últimos 15 segundos
-- Após o áudio, adicione: postura geral implícita do narrador, e parafraseie cada perspectiva em 3–5 palavras
+### Como usar a marcação de concessão (⚠)
 
-**Exemplo de anotação:**
+Quando ouvir: *"While critics raise valid concerns, the data clearly shows..."*
+
+Anote assim:
 ```
-TÓPICO: Nova linha de transporte no centro
+⚠ críticos: preocupações válidas  →  narrador: mas dados mostram X
+```
+O ⚠ lembra que o narrador **citou a visão dos críticos sem endossá-la**.
 
-VP1 (planejadores): necessário ✓ | stat: ridership ↑40% | custo OK longo prazo
-VP2 (comerciantes): ✗ dano na construção | stat: receita ↓35% | quer adiamento
-VP3 (moradores): ~ | ✓ SE rota mudar
-Narrador: endossa com cautela / reconhece preocupações válidas
-Última frase: "further consultation expected in fall"
+### Exemplo de anotação real
+
+```
+TÓPICO: nova linha trem centro Vancouver
+
+┌────────────────────────────┬────────────────────────────┬────────────────────┐
+│  VP1: planejadores         │  VP2: comerciantes         │  NARRADOR          │
+│  posição: +                │  posição: -                │  enquadramento:    │
+│  argumento: mobilidade     │  argumento: obra prejudica │  "debate complexo" │
+│  evidência: S (↑40% uso)   │  evidência: S (↓35% rev.)  │  postura: +?       │
+│  ressalva: custo inicial   │  ressalva: quer adiamento  │  "dados são sólidos│
+└────────────────────────────┴────────────────────────────┴────────────────────┘
+
+VP3: moradores ~ | ✓ SE rota passar pela Hastings St
+⚠ narrador citou críticos comerciantes → mas contrapôs com dados de uso
+
+ÚLT: ★ "consultas adicionais previstas para o outono"
 ```
 
 ---
@@ -93,30 +110,28 @@ Narrador: endossa com cautela / reconhece preocupações válidas
 
 | Armadilha | Detalhe |
 |-----------|---------|
-| **Confusão narrador-opinião** | A maior armadilha. O narrador relata opiniões alheias sem necessariamente endossá-las. "Critics believe the plan will fail" ≠ o narrador acha que vai falhar |
-| **Qualificador ignorado** | "Dr. Lee cautiously supports the pilot" ≠ "Dr. Lee fully endorses the plan" — as questões testam essa distinção |
-| **Armadilha da concessão** | "While critics raise valid concerns, the data clearly shows..." — não marque isso como endosso da visão dos críticos |
-| **Perder a mudança de perspectiva** | A transição entre VP1 e VP2 nem sempre é anunciada claramente — palavras de contraste são os únicos sinais |
-| **Correr atrás do que perdeu** | Se perdeu algo, abandonar as anotações para tentar reconstruir faz você perder o que vem a seguir. Avance. |
-| **Armadilhas lógicas nas alternativas** | Opções podem inflar evidência anedótica em fato declarado, ou apresentar falsos dilemas que o falante não fez |
+| **Confundir narrador com perspectiva relatada** | "Critics believe the plan will fail" ≠ narrador acha que vai falhar |
+| **Ignorar qualificadores** | "cautiously supports" ≠ "fully endorses" — questões testam exatamente essa diferença |
+| **Armadilha da concessão** | "While critics raise valid concerns..." — isso não é o narrador concordando com os críticos |
+| **Perder a mudança de perspectiva** | A transição VP1 → VP2 nem sempre é anunciada com fanfarra — "however / on the other hand" são os únicos sinais |
+| **Correr atrás do que perdeu** | Se perdeu algo, avance — tentar reconstruir faz você perder o que vem a seguir |
+| **Não usar as colunas** | Sem separação visual no papel, as perspectivas se misturam e você não sabe quem disse o quê |
 
 ---
 
-## Estratégias Específicas
+## Estratégia de Resposta
 
-1. Antes do áudio: leia o texto de introdução, monte seu template de colunas e escreva a abreviação do tópico no topo. Decida se usará 2 ou 3 colunas com base em quantas partes o texto menciona.
-2. **Os primeiros 25–30 segundos** estabelecem o tópico e a tensão principal. Escute com atenção total — não comece a escrever ainda. Entenda o panorama primeiro, depois inicie as anotações.
-3. Sempre que ouvir uma frase de atribuição ("According to..."), **comece uma nova linha ou bullet** na coluna correspondente.
-4. Para questões de inferência e tom, responda **imediatamente após o áudio** enquanto o tom do falante ainda está vívido na memória.
-5. Ao eliminar alternativas erradas: rejeite qualquer opção que contradiga um qualificador que você anotou (ex.: se você escreveu "cautelosamente", rejeite opções que dizem "apoia fortemente" ou "se opõe firmemente").
-6. Construa habilidades para a Parte 6 ouvindo: peças de opinião do CBC Radio, segmentos de análise do The Current, discussões editoriais da NPR, TED Talks sobre política ou questões sociais. Após cada escuta, **resuma imediatamente em 3 perspectivas** de cabeça.
+1. **Antes do áudio:** leia o texto de contexto, escreva o tópico no papel, monte a tabela (2 ou 3 colunas conforme o número de perspectivas mencionadas)
+2. **Primeiros 25–30 segundos:** só escute — não escreva ainda. Entenda o panorama geral antes de começar a anotar.
+3. Ao ouvir uma frase de atribuição ("According to..."), **inicie nova linha na coluna correspondente**
+4. Ao ouvir "however / on the other hand / in contrast" → **mude de coluna no papel imediatamente**
+5. Para questões de inferência e tom do narrador: responda imediatamente após o áudio, enquanto a memória ainda está vívida
+6. Para eliminar alternativas: rejeite qualquer opção que contradiga um qualificador que você anotou (ex.: se anotou "cautelosamente", rejeite "apoia fortemente")
 
----
+### Perguntas de verificação após cada treino
 
-## Perguntas de Autoavaliação Após Cada Treino
-
-1. Qual é a questão central?
-2. Quem tem a perspectiva 1? Qual é o argumento principal?
-3. Quem tem a perspectiva 2? Qual é o argumento principal?
-4. O que o narrador parece acreditar no geral?
-5. Que evidência foi citada — e por quem?
+1. Qual é a questão central do monólogo?
+2. Quem tem a perspectiva 1 e qual é o argumento principal?
+3. Quem tem a perspectiva 2 e qual é o argumento principal?
+4. O que o narrador parece acreditar no geral (mesmo que não tenha dito diretamente)?
+5. Que tipo de evidência foi usada — e por quem?

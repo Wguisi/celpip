@@ -1,54 +1,81 @@
 # Parte 3 — Listening for Information
 
-## O que é
+## Contexto Típico
 
-- **Formato:** 1 conversa mais longa ou monólogo, ~2–2,5 minutos
-- **Questões:** 6, múltipla escolha
-- **Tempo de resposta:** 30 segundos por questão
-- **Falantes:** Frequentemente um especialista e um entrevistador, ou um único falante dando uma apresentação, instruções ou explicação
-- **Cenários:** Entrevistas, visitas guiadas, apresentações acadêmicas, contextos instrucionais, anúncios comunitários, programas de rádio com convidados
-- **Temas:** Estudos de pesquisa, projetos comunitários, explicações de procedimentos (como se inscrever em algo, como um programa funciona), descrições de serviços, instruções passo a passo
-- **Dificuldade:** Médio — a seção mais densa em fatos
+- 1 conversa mais longa ou monólogo (~2–2,5 min) com conteúdo informativo
+- Cenários: entrevista com especialista, visita guiada, apresentação, instruções de como se inscrever em algo, anúncio de programa comunitário
+- **6 questões**, múltipla escolha, 30s por questão
+- **Dificuldade:** Médio — a parte **mais densa em fatos** de todo o Listening
 
-Ao contrário das Partes 1 e 2, onde você pode inferir pelo contexto, a Parte 3 testa se você **capturou fatos específicos**. Perder um número ou data aqui geralmente significa que você não consegue raciocinar até a resposta.
+Aqui não dá para inferir: se você não capturou o número, a data ou a condição, não consegue raciocinar até a resposta. Priorize captura de dados acima de qualquer outra coisa.
 
 ---
 
-## O que Prestar Atenção Durante a Escuta
+## O que Mais Cai
 
-- **Fatos específicos:** números, datas, preços, nomes, quantidades, prazos, requisitos de elegibilidade
-- **Sequências e etapas:** "first", "then", "next", "finally", "after that", "the last step is..."
-- **Linguagem qualificadora** que muda o significado de um fato:
-  - "except" / "unless" / "however" / "actually" / "but"
-  - Exemplo: "Normally it costs $200, but this month there's a 20% discount." — A questão vai perguntar sobre o preço com desconto.
-  - Exemplo: "The program is open to everyone EXCEPT international students." — A questão pode perguntar quem está excluído.
-- Ideia principal declarada nas primeiras frases — **não perca a abertura**.
-- Marcadores estruturais: "My main point is...", "The most important thing is...", "What I'd like to emphasize is..."
+- Números, datas, preços, quantidades com unidade
+- Quem é elegível / quem está excluído
+- Ordem de etapas de um processo
+- O que mudou em relação ao normal (desconto, exceção, nova regra)
+- Nome de pessoa ou organização + o que ela faz/disse
 
 ---
 
-## O que Anotar no Noteboard
+## Palavras-Gatilho para Prestar Atenção
 
-**Esta é a parte onde você toma mais notas** — seja mais agressivo aqui do que em qualquer outra parte.
+| Tipo | Exemplos |
+|------|----------|
+| Sequência de etapas | "first", "then", "next", "after that", "finally", "the last step is" |
+| Mudança / exceção | "except", "unless", "however", "but", "actually", "instead" |
+| Ênfase no ponto principal | "The most important thing is...", "What I'd like to emphasize...", "Keep in mind that..." |
+| Condição de elegibilidade | "only if", "as long as", "provided that", "eligible for", "not available to" |
+| Comparação de valores | "normally... but", "used to be... now", "instead of... we offer" |
 
-**Template — Grade de Categorias:**
+> **Regra de ouro:** qualquer vez que ouvir "but / however / except / unless / actually" — **marque no papel imediatamente**. É quase certo que tem questão ali.
+
+---
+
+## O que Anotar no Papel
+
+### Modelo — Grade de Categorias (monte isso ANTES do áudio)
+
+```
+QUEM:     ___________________________________
+O QUÊ:    ___________________________________
+CUSTO:    ___________________________________   (original → novo se mudar)
+DATAS:    ___________________________________   (início / fim / prazo)
+ELEGIB.:  ___________________________________   + EXCEÇÃO: ___________
+ETAPAS:   1>  2>  3>  4>
+OUTROS:   ___________________________________
+ÚLT:      ___________________________________   (última frase / conclusão)
+```
+
+### Símbolos recomendados
+
+| Símbolo | Significado |
+|---------|-------------|
+| → | leva a / resultado de |
+| ✗ | excluído / não se aplica |
+| * ou ⚠ | atenção — exceção ou mudança |
+| $ | valor monetário — sempre com unidade |
+| # | número de referência, código |
+| > | etapa de processo (1> 2> 3>) |
+| ~ | "aproximadamente" |
+| ↑ / ↓ | aumento / queda |
+| [?] | não captou — tente raciocinar depois |
+
+### Exemplo de anotação real
 
 ```
 QUEM:     Dr. Chen, pesquisadora UBC
-O QUÊ:    programa de saúde comunitária
-CUSTO:    $150 (normalmente $200)
-DATAS:    Jan 15 – Mar 30
-ELEGIB.:  residentes 18+ EXCETO estudantes
-ETAPAS:   1→ inscrever online  2→ sessão info  3→ confirmar por telefone
-OUTROS:   (espaço para qualquer dado extra)
+O QUÊ:    programa saúde comunitária
+CUSTO:    normalmente $200 → * $150 (desconto esse mês)
+DATAS:    Jan 15 – Mar 30 | prazo inscrição: Jan 10
+ELEGIB.:  residentes 18+  * EXCETO estudantes internacionais
+ETAPAS:   1> inscrever online  2> sessão info (obrigatória)  3> confirmar por tel
+OUTROS:   máx 50 vagas | parceria c/ Vancouver Health
+ÚLT:      "programa pode ser expandido em 2027"
 ```
-
-**Regras das anotações:**
-- Escreva **TODOS os números** que ouvir, imediatamente, mesmo sem saber a qual questão correspondem
-- Escreva nomes e substantivos próprios foneticamente se necessário — ortografia exata não importa
-- **Circule ou marque palavras qualificadoras** — elas frequentemente mudam a resposta
-- Se ouvir uma sequência, numere cada etapa: 1→, 2→, 3→
-- Sempre escreva a **unidade** ao lado do número (ex.: $150, 3 dias, 500 metros)
 
 ---
 
@@ -56,18 +83,19 @@ OUTROS:   (espaço para qualquer dado extra)
 
 | Armadilha | Detalhe |
 |-----------|---------|
-| **Confusão de preço/número** | O áudio menciona o valor original E o valor alterado — a questão mira no que você pode ter perdido |
-| **Perder qualificadores** | "All residents are eligible UNLESS they are on a student visa" — perder "unless" dá a resposta errada |
-| **Erros de sequência** | Errar a ordem das etapas por não capturar os marcadores de sequência |
-| **Fatos parciais** | Ouvir um número mas não saber a que ele se refere — sempre anote o contexto junto |
-| **Anotar demais** | Tentar transcrever faz você parar de escutar — priorize escuta ativa sobre escrita |
+| **Confusão de preço** | Mencionam valor original E valor com desconto — questão pede o valor que você pode ter perdido |
+| **Perder o qualificador** | "Everyone is eligible UNLESS on a student visa" — perder "unless" inverte a resposta |
+| **Ordem de etapas errada** | Ouviu os passos mas não os numerou — resulta em erro de sequência |
+| **Número sem contexto** | Anotou "150" mas não sabe se é dólares, metros ou dias — sempre escreva a unidade |
+| **Anotar demais** | Querer transcrever tudo faz você parar de escutar — palavras-chave e números, só |
 
 ---
 
-## Estratégias Específicas
+## Estratégia de Resposta
 
-1. Antes do áudio, **escaneie as 6 questões** e note que TIPO de informação cada uma pede (data? pessoa? condição? etapa?). Isso define o que você vai caçar.
-2. Quando ouvir uma palavra qualificadora ("except", "however", "actually"), **marque imediatamente suas anotações** — ali está a armadilha.
-3. Trate números e nomes como itens "captura obrigatória" — ao ouvir, escreva antes de qualquer coisa.
-4. Se o áudio descreve um processo, **numere cada etapa** no noteboard conforme ouvir.
-5. Pratique com podcasts informativos: TED Talks, CBC The Current, explicações de "como fazer", entrevistas de rádio.
+1. Antes do áudio: **escaneie as 6 questões** e identifique que tipo de dado cada uma pede (data? custo? etapa? condição?). Isso diz o que caçar.
+2. Monte a grade de categorias no papel antes do áudio começar.
+3. Ao ouvir um número, **escreva imediatamente** com a unidade — não termine a frase antes.
+4. Quando ouvir "but / except / however / actually", faça uma marcação visual (* ou ⚠) — é onde está a armadilha.
+5. Se ouvir uma sequência de passos, numere cada um no papel conforme ouvir.
+6. Se perder um dado: deixe o espaço em branco, siga em frente, tente inferir na hora de responder.
